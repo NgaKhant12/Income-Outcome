@@ -1,0 +1,5 @@
+{
+  "name": "PocketLedger AI",
+  "description": "An offline-first personal expense tracker that provides intelligent financial insights using Gemini. Secure, private, and capable of functioning without internet for daily tracking.",
+  "requestFramePermissions": []
+}
